@@ -2091,10 +2091,10 @@ export function CountdownBanner() {
             
             <p className="text-dark-green text-sm md:text-base font-extrabold whitespace-pre-line mt-2 text-center w-full">
               <span className="block sm:hidden">
-                {"📅 참여 기간 : 6월 14일까지\n✅ @musictrain999\n인스타그램 팔로우 필수"}
+                {"📅 참여 기간 : 6월 14일까지\n⏰ 기간 연장 : 6월 17일까지\n✅ @musictrain999\n인스타그램 팔로우 필수"}
               </span>
               <span className="hidden sm:block">
-                {"📅 참여 기간 : 6월 14일까지\n📸 @musictrain999 팔로우 필수"}
+                {"📅 참여 기간 : 6월 14일까지\n⏰ 기간 연장 : 6월 17일까지\n📸 @musictrain999 팔로우 필수"}
               </span>
             </p>
           </div>
