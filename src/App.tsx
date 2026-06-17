@@ -2121,9 +2121,9 @@ export function CountdownBanner() {
               <Clock className="w-4 h-4 text-[#FDF3DC] shrink-0" />
               <span>
                 <span className="block sm:hidden text-center leading-tight">
-                  6월 15일<br />추첨 예정
+                  6월 18일<br />추첨 예정
                 </span>
-                <span className="hidden sm:block">6월 15일 추첨 예정</span>
+                <span className="hidden sm:block">6월 18일 추첨 예정</span>
               </span>
             </div>
           </motion.div>
